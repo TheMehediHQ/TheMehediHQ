@@ -4,7 +4,7 @@
 
 # Hi, I’m Mehedi Hasan <img src="./gifs/Hi.gif" alt="Hi animation" width="40"/>
 
-📍 **Bangladesh** | ⚛️ **Frontend-Focused Full Stack Engineer** | 🚀 **MERN & Next.js Developer**
+📍 **Bangladesh** | ⚛️ **Full Stack Developer** | 🚀 **MERN & Next.js Developer**
 
 
 
