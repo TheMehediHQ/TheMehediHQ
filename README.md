@@ -95,7 +95,7 @@
 
 ---
 
-## 🌐 Portfolio & Writing
+## 🌐 Portfolio 
 
 - **Portfolio:** [www.mehedi-hasan.me](https://www.mehedi-hasan.me)  
 
