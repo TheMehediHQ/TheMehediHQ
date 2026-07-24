@@ -98,7 +98,7 @@
 ## 🌐 Portfolio & Writing
 
 - **Portfolio:** [www.mehedi-hasan.me](https://www.mehedi-hasan.me)  
-- **Blog:** [https://wwww.mehedi-hasan.me/blog](https://www.mehedi-hasan.me/blog)  
+
 
 ---
 
@@ -110,7 +110,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/themehedihq)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.mehedi-hasan.me)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mehedi.hasan16111@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@mehedi-hasan.me)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/themehedihq)
 [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/themehedihq)
 
