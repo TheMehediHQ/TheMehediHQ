@@ -43,6 +43,7 @@
 
 ## 🌟 Featured Projects
 
+- **[💳 Kashly](https://kashly.mehedi-hasan.me/)** – Next.js & TypeScript personal finance dashboard for tracking real-time balance, cash flow, and budgets.
 - **[🌱 Plant Care Tracker](https://plant-care-tracker-bd.web.app)** – MERN app for managing plant routines, reminders, and notes.  
 - **[🍽️ Food Garden](https://food-garden-bd.web.app/)** – Real-time food management platform with Firebase auth & sync.  
 - **[📡 Duranta Online](https://duranta-online.vercel.app/)** – Next.js app for internet & cable services with admin dashboard.  
