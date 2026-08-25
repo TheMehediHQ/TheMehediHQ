@@ -43,11 +43,9 @@
 
 ## 🌟 Open Source Projects
 
-| Project | Live | GitHub | Tech Stack |
-|---------|------|--------|------------|
-| 💳 [Kashly](https://kashly.mehedi-hasan.me) | [Demo](https://kashly.mehedi-hasan.me) | [Repo](https://github.com/themehedihq/kashly) | Next.js & TypeScript |
-| 🌱 [Treely](https://plant-care-tracker-bd.web.app) | [Demo](https://plant-care-tracker-bd.web.app) | [Repo](https://github.com/themehedihq/treely) | MERN |
-| 🍽️ [Foodly](https://food-garden-bd.web.app/) | [Demo](https://food-garden-bd.web.app/) | [Repo](https://github.com/themehedihq/foodly) | Firebase |  
+- **[💳 Kashly](https://kashly.mehedi-hasan.me)** | [GitHub](https://github.com/themehedihq/kashly) – Next.js & TypeScript personal finance dashboard.
+- **[🌱 Treely](https://plant-care-tracker-bd.web.app)** | [GitHub](https://github.com/themehedihq/treely) – MERN app for plant routines, reminders, and notes.
+- **[🍽️ Foodly](https://food-garden-bd.web.app/)** | [GitHub](https://github.com/themehedihq/foodly) – Real-time food management with Firebase auth & sync.  
 
 
 
