@@ -41,17 +41,22 @@
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Open Source Projects
 
-- **[💳 Kashly](https://kashly.mehedi-hasan.me/)** – Next.js & TypeScript personal finance dashboard for tracking real-time balance, cash flow, and budgets.
-- **[🌱 Plant Care Tracker](https://plant-care-tracker-bd.web.app)** – MERN app for managing plant routines, reminders, and notes.  
-- **[🍽️ Food Garden](https://food-garden-bd.web.app/)** – Real-time food management platform with Firebase auth & sync.  
-- **[📡 Duranta Online](https://duranta-online.vercel.app/)** – Next.js app for internet & cable services with admin dashboard.  
-- **[✅ Task Manager](https://meheditodo.vercel.app/)** – Next.js & TypeScript app to create, update, and organize tasks with real-time updates.  
-- **[🎯 Active Arena](https://buildbox-a12.web.app/)** – Playground management app with real-time sync and JWT auth.  
-- **[🎟️ Event Explorer](https://event-explorer-bd.netlify.app/)** – Full-stack event booking platform to browse & reserve local events.
+- **[💳 Kashly](https://kashly.mehedi-hasan.me)** | [GitHub](https://github.com/themehedihq/kashly) – Next.js & TypeScript personal finance dashboard for tracking real-time balance, cash flow, and budgets.
+- **[🌱 Treely](https://plant-care-tracker-bd.web.app)** | [GitHub](https://github.com/themehedihq/treely) – MERN app for managing plant routines, reminders, and notes.  
+- **[🍽️ Foodly](https://food-garden-bd.web.app/)** | [GitHub](https://github.com/themehedihq/foodly) – Real-time food management platform with Firebase auth & sync.  
+
+
 
 > More projects available on my [portfolio](https://www.mehedi-hasan.me) and GitHub.
+
+## 🌍 Real World Projects
+
+- **[🛒 Xgari](https://xgari.com/)** – Real-world e-commerce platform.
+- **[🎙️ AyVoice](https://ayvoice.com/)** – Real-world voice/video platform.
+- **[⚡ NexVibe](https://nexvibe.tech/)** – Real-world SaaS/tech platform.
+
 ---
 
 ## 📄 Resume
