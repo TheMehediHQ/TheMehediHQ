@@ -45,7 +45,7 @@
 
 - **[💳 Kashly](https://kashly.mehedi-hasan.me)** | [GitHub](https://github.com/themehedihq/kashly) – Next.js & TypeScript personal finance dashboard.
 - **[🍽️ Foodly](https://foodly.mehedi-hasan.me)** | [GitHub](https://github.com/themehedihq/foodly) – Real-time food management with Firebase auth & sync.  
-- **[🎙️ AyVoice](https://ayvoice.com/)** – Real-world voice/video platform.
+- **[🎙️ AyVoice](https://ayvoice.com/)** – Real-world voice/sms platform.
 - **[⚡ NexVibe](https://nexvibe.tech/)** – Real-world tech platform.
 
 
