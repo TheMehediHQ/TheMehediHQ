@@ -41,21 +41,15 @@
 
 ---
 
-## 🌟 Open Source Projects
+## 🌟 Projects
 
 - **[💳 Kashly](https://kashly.mehedi-hasan.me)** | [GitHub](https://github.com/themehedihq/kashly) – Next.js & TypeScript personal finance dashboard.
-- **[🌱 Treely](https://treely.mehedi-hasan.me)** | [GitHub](https://github.com/themehedihq/treely) – MERN app for plant routines, reminders, and notes.
 - **[🍽️ Foodly](https://foodly.mehedi-hasan.me)** | [GitHub](https://github.com/themehedihq/foodly) – Real-time food management with Firebase auth & sync.  
-
+- **[🎙️ AyVoice](https://ayvoice.com/)** – Real-world voice/video platform.
+- **[⚡ NexVibe](https://nexvibe.tech/)** – Real-world SaaS/tech platform.
 
 
 > More projects available on my [portfolio](https://www.mehedi-hasan.me) and GitHub.
-
-## 🌍 Real World Projects
-
-- **[🛒 Xgari](https://xgari.com/)** – Real-world e-commerce platform.
-- **[🎙️ AyVoice](https://ayvoice.com/)** – Real-world voice/video platform.
-- **[⚡ NexVibe](https://nexvibe.tech/)** – Real-world SaaS/tech platform.
 
 ---
 
